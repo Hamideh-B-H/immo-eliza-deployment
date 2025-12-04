@@ -79,7 +79,7 @@ https://immo-eliza-ml-ujru3k2azkxepb2yaxpfxz.streamlit.app/
 
 ##  Timeline
 
-This project and the study of relevant theories took one week for completion.
+This project and the study of relevant theories took three days for completion. However, this app and its undelying model is under development. 
 
 
 ##  Personal Situation
